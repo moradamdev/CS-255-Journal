@@ -1,2 +1,14 @@
-# CS-255-Journal
-CS 255 Journal
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+  The client was a company called DriverPass, they were designing a system to help people pass their drivers test. Some notable features to DriverPass were the ability to schedule driving appointments with an instructor, view notes and take assignments from the instructor, and see official DMV information.
+
+What did you do particularly well?
+  I believe I did a great job at explaining the various processes and features to the DriverPass software in layman's terms for the stakeholders and other investors to understand what the website/app does. I believe that it is incredibly important to be able to convey an idea to the average person despiite being a programmer who understands and frequently uses programming terms that most other people wouldn't understand. It's good to have good communication within your team and use those specific terms, but it is just as important to be able to explain your product to the people who will actually eventually use your product.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+  I would revise some of the system designs to be more detailed. Specifically in the use case diagram, I never included every user involved and in the activity diagram I could have chosen a better example that is more specific to the DriverPass software such as a student who needs to sign up for a class.
+
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+  I made sure to include all of the user needs in my system design so that the actual people who will be using the program will have features that they asked for. It's important to come up with your own ideas and be creative as a developer, but it is just as important to take in ideas from others and evolve your program based on what the actual users ask for. This is why we do user case studies and interviews since it is the best way to learn what they wish for in the product. They are the ones who will be using it after all.
+
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+  I always start by grabbing a physical pen and paper to write down all of my ideas and draw diagrams that will help me in the future. Having to physically write something down makes everything far more deliberate and also helps you remember any good ideas that you came up with. In my opinion drawing actual diagrams is the most helpful thing you can do in the planning stages. I believe that a UML class diagram is the most effective way to plan your entire system since it includes every single thing that your program will have in it, and is extremely easy to edit if you need to add or remove anything.
